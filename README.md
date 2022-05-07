@@ -1,7 +1,7 @@
-spotify bot
+Spotify bot
 
 
-note for self:
+Note for self:
 
 include ->  Monthly reminder with an update of how much you owe
         ->  Hook up each info of how much you owe on database
